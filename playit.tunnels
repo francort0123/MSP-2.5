@@ -19,7 +19,7 @@
           "ip_type": "both",
           "port_end": 32721,
           "port_start": 32720,
-          "region": "global",
+          "region": "sa",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
@@ -47,7 +47,7 @@
         "bytes_per_second": null,
         "packets_per_second": null
       },
-      "region": "global",
+      "region": "sa",
       "tunnel_type": "minecraft-java"
     }
   ],

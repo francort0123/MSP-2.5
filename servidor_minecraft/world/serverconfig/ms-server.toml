@@ -1,0 +1,12 @@
+
+#Server Settings
+[general]
+	#Allow Mo' Shiz mobs to spawn
+	"Spawn Mobs" = true
+	#Allow crop harvesting by right clicking
+	"Right Click to Harvest" = true
+	#Allow stronger mobs to spawn
+	"Spawn Stronger Mobs" = true
+	#Allow double doors to open when right clicked
+	"Double Door Interaction" = true
+

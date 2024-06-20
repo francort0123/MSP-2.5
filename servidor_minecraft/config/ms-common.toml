@@ -1,0 +1,632 @@
+
+#Ore Generation Settings
+[ore]
+	#Allow ores to generate in the world
+	"Spawn Ore" = true
+
+	#Amazonite Settings
+	[ore.amazonite]
+		#Generate Amazonite Ore
+		"Amazonite Ore" = true
+		#Vein Size (Default = 5)
+		#Range: 1 ~ 36
+		"Vein Size" = 5
+		#Chances to Spawn Per Chunk (Default = 8)
+		#Range: 1 ~ 46
+		"Vein Count" = 8
+		#Minimum Spawn Height (Default = 32)
+		#Range: -64 ~ 316
+		"Minimum Level" = 32
+		#Maximum Spawn Height (Default = 90)
+		#Range: -64 ~ 316
+		"Maximum Level" = 90
+
+	#Aquamarine Settings
+	[ore.aquamarine]
+		#Generate Aquamarine Ore
+		"Aquamarine Ore" = true
+		#Vein Size (Default = 3)
+		#Range: 1 ~ 36
+		"Vein Size" = 3
+		#Chances to Spawn Per Chunk (Default = 13)
+		#Range: 1 ~ 46
+		"Vein Count" = 13
+		#Minimum Spawn Height (Default = -11)
+		#Range: -64 ~ 316
+		"Minimum Level" = -11
+		#Maximum Spawn Height (Default = 29)
+		#Range: -64 ~ 316
+		"Maximum Level" = 29
+
+	#Black Diamond Settings
+	[ore.black_diamond]
+		#Generate Black Diamond Ore
+		"Black Diamond Ore" = true
+		#Vein Size (Default = 3)
+		#Range: 1 ~ 36
+		"Vein Size" = 3
+		#Chances to Spawn Per Chunk (Default = 8)
+		#Range: 1 ~ 46
+		"Vein Count" = 8
+		#Minimum Spawn Height (Default = -64)
+		#Range: -64 ~ 316
+		"Minimum Level" = -64
+		#Maximum Spawn Height (Default = 5)
+		#Range: -64 ~ 316
+		"Maximum Level" = 5
+
+	#Chromite Settings
+	[ore.chromite]
+		#Generate Chromite Ore
+		"Chromite Ore" = true
+		#Vein Size (Default = 4)
+		#Range: 1 ~ 36
+		"Vein Size" = 4
+		#Chances to Spawn Per Chunk (Default = 15)
+		#Range: 1 ~ 46
+		"Vein Count" = 15
+		#Minimum Spawn Height (Default = -19)
+		#Range: -64 ~ 316
+		"Minimum Level" = -19
+		#Maximum Spawn Height (Default = 44)
+		#Range: -64 ~ 316
+		"Maximum Level" = 44
+
+	#Citrine Settings
+	[ore.citrine]
+		#Generate Citrine Ore
+		"Citrine Ore" = true
+		#Vein Size (Default = 6)
+		#Range: 1 ~ 36
+		"Vein Size" = 6
+		#Chances to Spawn Per Chunk (Default = 9)
+		#Range: 1 ~ 46
+		"Vein Count" = 9
+		#Minimum Spawn Height (Default = -10)
+		#Range: -64 ~ 316
+		"Minimum Level" = -10
+		#Maximum Spawn Height (Default = 65)
+		#Range: -64 ~ 316
+		"Maximum Level" = 65
+
+	#Cobalt Settings
+	[ore.cobalt]
+		#Generate Cobalt Ore
+		"Cobalt Ore" = true
+		#Vein Size (Default = 5)
+		#Range: 1 ~ 36
+		"Vein Size" = 5
+		#Chances to Spawn Per Chunk (Default = 14)
+		#Range: 1 ~ 46
+		"Vein Count" = 14
+		#Minimum Spawn Height (Default = -20)
+		#Range: -64 ~ 316
+		"Minimum Level" = -20
+		#Maximum Spawn Height (Default = 43)
+		#Range: -64 ~ 316
+		"Maximum Level" = 43
+
+	#Demonite Settings
+	[ore.demonite]
+		#Generate Demonite Ore
+		"Demonite Ore" = true
+		#Vein Size (Default = 7)
+		#Range: 1 ~ 36
+		"Vein Size" = 7
+		#Chances to Spawn Per Chunk (Default = 16)
+		#Range: 1 ~ 46
+		"Vein Count" = 16
+		#Minimum Spawn Height (Default = -14)
+		#Range: -64 ~ 316
+		"Minimum Level" = -14
+		#Maximum Spawn Height (Default = 37)
+		#Range: -64 ~ 316
+		"Maximum Level" = 37
+
+	#Hellfire Settings
+	[ore.hellfire]
+		#Generate Hellfire Ore
+		"Hellfire Ore" = true
+		#Vein Size (Default = 3)
+		#Range: 1 ~ 36
+		"Vein Size" = 3
+		#Chances to Spawn Per Chunk (Default = 7)
+		#Range: 1 ~ 46
+		"Vein Count" = 7
+
+	#Jade Settings
+	[ore.jade]
+		#Generate Jade Ore
+		"Jade Ore" = true
+		#Vein Size (Default = 4)
+		#Range: 1 ~ 36
+		"Vein Size" = 4
+		#Chances to Spawn Per Chunk (Default = 12)
+		#Range: 1 ~ 46
+		"Vein Count" = 12
+		#Minimum Spawn Height (Default = -9)
+		#Range: -64 ~ 316
+		"Minimum Level" = -9
+		#Maximum Spawn Height (Default = 70)
+		#Range: -64 ~ 316
+		"Maximum Level" = 70
+
+	#Jet Settings
+	[ore.jet]
+		#Generate Jet Ore
+		"Jet Ore" = true
+		#Vein Size (Default = 4)
+		#Range: 1 ~ 36
+		"Vein Size" = 4
+		#Chances to Spawn Per Chunk (Default = 8)
+		#Range: 1 ~ 46
+		"Vein Count" = 8
+		#Minimum Spawn Height (Default = 20)
+		#Range: -64 ~ 316
+		"Minimum Level" = 20
+		#Maximum Spawn Height (Default = 84)
+		#Range: -64 ~ 316
+		"Maximum Level" = 84
+
+	#Mithril Settings
+	[ore.mithril]
+		#Generate Mithril Ore
+		"Mithril Ore" = true
+		#Vein Size (Default = 4)
+		#Range: 1 ~ 36
+		"Vein Size" = 4
+		#Chances to Spawn Per Chunk (Default = 11)
+		#Range: 1 ~ 46
+		"Vein Count" = 11
+		#Minimum Spawn Height (Default = 0)
+		#Range: -64 ~ 316
+		"Minimum Level" = 0
+		#Maximum Spawn Height (Default = 50)
+		#Range: -64 ~ 316
+		"Maximum Level" = 50
+
+	#Olivine Settings
+	[ore.olivine]
+		#Generate Olivine Ore
+		"Olivine Ore" = true
+		#Vein Size (Default = 6)
+		#Range: 1 ~ 36
+		"Vein Size" = 6
+		#Chances to Spawn Per Chunk (Default = 10)
+		#Range: 1 ~ 46
+		"Vein Count" = 10
+		#Minimum Spawn Height (Default = 23)
+		#Range: -64 ~ 316
+		"Minimum Level" = 23
+		#Maximum Spawn Height (Default = 99)
+		#Range: -64 ~ 316
+		"Maximum Level" = 99
+
+	#Onyx Settings
+	[ore.onyx]
+		#Generate Onyx Ore
+		"Onyx Ore" = true
+		#Vein Size (Default = 5)
+		#Range: 1 ~ 36
+		"Vein Size" = 5
+		#Chances to Spawn Per Chunk (Default = 10)
+		#Range: 1 ~ 46
+		"Vein Count" = 10
+		#Minimum Spawn Height (Default = 37)
+		#Range: -64 ~ 316
+		"Minimum Level" = 37
+		#Maximum Spawn Height (Default = 104)
+		#Range: -64 ~ 316
+		"Maximum Level" = 104
+
+	#Opal Settings
+	[ore.opal]
+		#Generate Opal Ore
+		"Opal Ore" = true
+		#Vein Size (Default = 3)
+		#Range: 1 ~ 36
+		"Vein Size" = 3
+		#Chances to Spawn Per Chunk (Default = 10)
+		#Range: 1 ~ 46
+		"Vein Count" = 10
+		#Minimum Spawn Height (Default = 14)
+		#Range: -64 ~ 316
+		"Minimum Level" = 14
+		#Maximum Spawn Height (Default = 39)
+		#Range: -64 ~ 316
+		"Maximum Level" = 39
+
+	#Platinum Settings
+	[ore.platinum]
+		#Generate Platinum Ore
+		"Platinum Ore" = true
+		#Vein Size (Default = 4)
+		#Range: 1 ~ 36
+		"Vein Size" = 4
+		#Chances to Spawn Per Chunk (Default = 8)
+		#Range: 1 ~ 46
+		"Vein Count" = 8
+		#Minimum Spawn Height (Default = -19)
+		#Range: -64 ~ 316
+		"Minimum Level" = -19
+		#Maximum Spawn Height (Default = 5)
+		#Range: -64 ~ 316
+		"Maximum Level" = 5
+
+	#Potassium Nitrate Settings
+	[ore.potassium_nitrate]
+		#Generate Potassium Nitrate Ore
+		"Potassium Nitrate Ore" = true
+		#Vein Size (Default = 9)
+		#Range: 1 ~ 36
+		"Vein Size" = 9
+		#Chances to Spawn Per Chunk (Default = 10)
+		#Range: 1 ~ 46
+		"Vein Count" = 10
+		#Minimum Spawn Height (Default = 0)
+		#Range: -64 ~ 316
+		"Minimum Level" = 0
+		#Maximum Spawn Height (Default = 250)
+		#Range: -64 ~ 316
+		"Maximum Level" = 250
+
+	#Ruby Settings
+	[ore.ruby]
+		#Generate Ruby Ore
+		"Ruby Ore" = true
+		#Vein Size (Default = 4)
+		#Range: 1 ~ 36
+		"Vein Size" = 4
+		#Chances to Spawn Per Chunk (Default = 13)
+		#Range: 1 ~ 46
+		"Vein Count" = 13
+		#Minimum Spawn Height (Default = -14)
+		#Range: -64 ~ 316
+		"Minimum Level" = -14
+		#Maximum Spawn Height (Default = 25)
+		#Range: -64 ~ 316
+		"Maximum Level" = 25
+
+	#Sapphire Settings
+	[ore.sapphire]
+		#Generate Sapphire Ore
+		"Sapphire Ore" = true
+		#Vein Size (Default = 4)
+		#Range: 1 ~ 36
+		"Vein Size" = 4
+		#Chances to Spawn Per Chunk (Default = 15)
+		#Range: 1 ~ 46
+		"Vein Count" = 15
+		#Minimum Spawn Height (Default = -14)
+		#Range: -64 ~ 316
+		"Minimum Level" = -14
+		#Maximum Spawn Height (Default = 46)
+		#Range: -64 ~ 316
+		"Maximum Level" = 46
+
+	#Scarlet Emerald Settings
+	[ore.scarlet_emerald]
+		#Generate Scarlet Emerald Ore
+		"Scarlet Emerald Ore" = true
+		#Vein Size (Default = 4)
+		#Range: 1 ~ 36
+		"Vein Size" = 4
+		#Chances to Spawn Per Chunk (Default = 8)
+		#Range: 1 ~ 46
+		"Vein Count" = 8
+		#Minimum Spawn Height (Default = -60)
+		#Range: -64 ~ 316
+		"Minimum Level" = -60
+		#Maximum Spawn Height (Default = -30)
+		#Range: -64 ~ 316
+		"Maximum Level" = -30
+
+	#Silver Settings
+	[ore.silver]
+		#Generate Silver Ore
+		"Silver Ore" = true
+		#Vein Size (Default = 5)
+		#Range: 1 ~ 36
+		"Vein Size" = 5
+		#Chances to Spawn Per Chunk (Default = 10)
+		#Range: 1 ~ 46
+		"Vein Count" = 10
+		#Minimum Spawn Height (Default = 15)
+		#Range: -64 ~ 316
+		"Minimum Level" = 15
+		#Maximum Spawn Height (Default = 54)
+		#Range: -64 ~ 316
+		"Maximum Level" = 54
+
+	#Sulfur Settings
+	[ore.sulfur]
+		#Generate Sulfur Ore
+		"Sulfur Ore" = true
+		#Vein Size (Default = 5)
+		#Range: 1 ~ 36
+		"Vein Size" = 5
+		#Chances to Spawn Per Chunk (Default = 13)
+		#Range: 1 ~ 46
+		"Vein Count" = 13
+		#Minimum Spawn Height (Default = -22)
+		#Range: -64 ~ 316
+		"Minimum Level" = -22
+		#Maximum Spawn Height (Default = 16)
+		#Range: -64 ~ 316
+		"Maximum Level" = 16
+
+	#Tanzanite Settings
+	[ore.tanzanite]
+		#Generate Tanzanite Ore
+		"Tanzanite Ore" = true
+		#Vein Size (Default = 4)
+		#Range: 1 ~ 36
+		"Vein Size" = 4
+		#Chances to Spawn Per Chunk (Default = 8)
+		#Range: 1 ~ 46
+		"Vein Count" = 8
+		#Minimum Spawn Height (Default = -34)
+		#Range: -64 ~ 316
+		"Minimum Level" = -34
+		#Maximum Spawn Height (Default = 23)
+		#Range: -64 ~ 316
+		"Maximum Level" = 23
+
+	#Tin Settings
+	[ore.tin]
+		#Generate Tin Ore
+		"Tin Ore" = true
+		#Vein Size (Default = 7)
+		#Range: 1 ~ 36
+		"Vein Size" = 7
+		#Chances to Spawn Per Chunk (Default = 12)
+		#Range: 1 ~ 46
+		"Vein Count" = 12
+		#Minimum Spawn Height (Default = 50)
+		#Range: -64 ~ 316
+		"Minimum Level" = 50
+		#Maximum Spawn Height (Default = 97)
+		#Range: -64 ~ 316
+		"Maximum Level" = 97
+
+	#Titanium Settings
+	[ore.titanium]
+		#Generate Titanium Ore
+		"Titanium Ore" = true
+		#Vein Size (Default = 3)
+		#Range: 1 ~ 36
+		"Vein Size" = 3
+		#Chances to Spawn Per Chunk (Default = 10)
+		#Range: 1 ~ 46
+		"Vein Count" = 10
+		#Minimum Spawn Height (Default = -40)
+		#Range: -64 ~ 316
+		"Minimum Level" = -40
+		#Maximum Spawn Height (Default = 6)
+		#Range: -64 ~ 316
+		"Maximum Level" = 6
+
+	#Topaz Settings
+	[ore.topaz]
+		#Generate Topaz Ore
+		"Topaz Ore" = true
+		#Vein Size (Default = 3)
+		#Range: 1 ~ 36
+		"Vein Size" = 3
+		#Chances to Spawn Per Chunk (Default = 12)
+		#Range: 1 ~ 46
+		"Vein Count" = 12
+		#Minimum Spawn Height (Default = -55)
+		#Range: -64 ~ 316
+		"Minimum Level" = -55
+		#Maximum Spawn Height (Default = 13)
+		#Range: -64 ~ 316
+		"Maximum Level" = 13
+
+	#Turquoise Settings
+	[ore.turquoise]
+		#Generate Turquoise Ore
+		"Turquoise Ore" = true
+		#Vein Size (Default = 4)
+		#Range: 1 ~ 36
+		"Vein Size" = 4
+		#Chances to Spawn Per Chunk (Default = 16)
+		#Range: 1 ~ 46
+		"Vein Count" = 16
+		#Minimum Spawn Height (Default = -38)
+		#Range: -64 ~ 316
+		"Minimum Level" = -38
+		#Maximum Spawn Height (Default = 43)
+		#Range: -64 ~ 316
+		"Maximum Level" = 43
+
+	#Uranium Settings
+	[ore.uranium]
+		#Generate Uranium Ore
+		"Uranium Ore" = true
+		#Vein Size (Default = 4)
+		#Range: 1 ~ 36
+		"Vein Size" = 4
+		#Chances to Spawn Per Chunk (Default = 18)
+		#Range: 1 ~ 46
+		"Vein Count" = 18
+		#Minimum Spawn Height (Default = -60)
+		#Range: -64 ~ 316
+		"Minimum Level" = -60
+		#Maximum Spawn Height (Default = 43)
+		#Range: -64 ~ 316
+		"Maximum Level" = 43
+
+	#White Opal Settings
+	[ore."white opal"]
+		#Generate White Opal Ore
+		"White Opal Ore" = true
+		#Vein Size (Default = 4)
+		#Range: 1 ~ 36
+		"Vein Size" = 4
+		#Chances to Spawn Per Chunk (Default = 8)
+		#Range: 1 ~ 46
+		"Vein Count" = 8
+		#Minimum Spawn Height (Default = -14)
+		#Range: -64 ~ 316
+		"Minimum Level" = -14
+		#Maximum Spawn Height (Default = 49)
+		#Range: -64 ~ 316
+		"Maximum Level" = 49
+
+	#Foulite Settings
+	[ore.foulite]
+		#Generate Foulite Ore
+		"Foulite Ore" = true
+		#Vein Size (Default = 6)
+		#Range: 1 ~ 36
+		"Vein Size" = 6
+		#Chances to Spawn Per Chunk (Default = 20)
+		#Range: 1 ~ 46
+		"Vein Count" = 20
+
+	#Neridium Settings
+	[ore.neridium]
+		#Generate Neridium Ore
+		"Neridium Ore" = true
+		#Vein Size (Default = 5)
+		#Range: 1 ~ 36
+		"Vein Size" = 5
+		#Chances to Spawn Per Chunk (Default = 16)
+		#Range: 1 ~ 46
+		"Vein Count" = 16
+
+	#Pyridium Settings
+	[ore.pyridium]
+		#Generate Pyridium Ore
+		"Pyridium Ore" = true
+		#Vein Size (Default = 3)
+		#Range: 1 ~ 36
+		"Vein Size" = 3
+		#Chances to Spawn Per Chunk (Default = 13)
+		#Range: 1 ~ 46
+		"Vein Count" = 13
+
+	#Linium Settings
+	[ore.linium]
+		#Generate Linium Ore
+		"Linium Ore" = true
+		#Vein Size (Default = 3)
+		#Range: 1 ~ 36
+		"Vein Size" = 3
+		#Chances to Spawn Per Chunk (Default = 8)
+		#Range: 1 ~ 46
+		"Vein Count" = 8
+
+	#Triterium Settings
+	[ore.w]
+		#Generate Triterium Ore
+		"Triterium Ore" = true
+		#Vein Size (Default = 3)
+		#Range: 1 ~ 36
+		"Vein Size" = 3
+		#Chances to Spawn Per Chunk (Default = 9)
+		#Range: 1 ~ 46
+		"Vein Count" = 9
+
+	#Tungsten Settings
+	[ore.tungsten]
+		#Generate Tungsten Ore
+		"Tungsten Ore" = true
+		#Vein Size (Default = 3)
+		#Range: 1 ~ 36
+		"Vein Size" = 3
+		#Chances to Spawn Per Chunk (Default = 4)
+		#Range: 1 ~ 46
+		"Vein Count" = 4
+
+	#Violium Settings
+	[ore.violium]
+		#Generate Violium Ore
+		"Violium Ore" = true
+		#Vein Size (Default = 3)
+		#Range: 1 ~ 36
+		"Vein Size" = 3
+		#Chances to Spawn Per Chunk (Default = 4)
+		#Range: 1 ~ 46
+		"Vein Count" = 4
+
+	#Marble Settings
+	[ore.marble]
+		#Generate Marble Ore
+		"Marble Ore" = true
+		#Vein Size (Default = 33)
+		#Range: 1 ~ 50
+		"Vein Size" = 33
+		#Chances to Spawn Per Chunk (Default = 10)
+		#Range: 1 ~ 46
+		"Vein Count" = 10
+
+	#Limestone Settings
+	[ore.limestone]
+		#Generate Limestone Ore
+		"Limestone Ore" = true
+		#Vein Size (Default = 33)
+		#Range: 1 ~ 50
+		"Vein Size" = 33
+		#Chances to Spawn Per Chunk (Default = 10)
+		#Range: 1 ~ 46
+		"Vein Count" = 10
+
+	#Peridotite Settings
+	[ore.peridotite]
+		#Generate Peridotite Ore
+		"Peridotite Ore" = true
+		#Vein Size (Default = 33)
+		#Range: 1 ~ 50
+		"Vein Size" = 33
+		#Chances to Spawn Per Chunk (Default = 10)
+		#Range: 1 ~ 46
+		"Vein Count" = 10
+
+	#Salty Sand Settings
+	[ore."salty sand"]
+		#Generate Salty Sand Ore
+		"Salty Sand Ore" = true
+
+#Tree Generation Settings
+[trees]
+	#Spawn modded trees
+	treeSpawn = true
+	#Spawn maple tree
+	mapleTreeSpawn = true
+	#Spawn cherry tree
+	cherryTreeSpawn = true
+	#Spawn silverbell tree
+	silverbellTreeSpawn = true
+	#Spawn tigerwood tree
+	tigerwoodTreeSpawn = true
+	#Spawn willow tree
+	willowTreeSpawn = true
+	#Spawn glowood tree
+	glowoodTreeSpawn = true
+	#Spawn hellwood tree
+	hellwoodTreeSpawn = true
+	#Spawn apple tree
+	appleTreeSpawn = true
+
+#Plant Generation Settings
+[plants]
+	#Spawn plants
+	plantSpawn = true
+	#Spawn green shroom
+	greenShroomSpawn = true
+	#Spawn purple shroom
+	purpleShroomSpawn = true
+	#Spawn nether reed
+	netherReedSpawn = true
+	#Spawn Custom Grass, Crop seeds only drop from this block, if disabled there is no other way to get seeds
+	grassSpawn = true
+	#Spawn soul grass
+	soulGrassSpawn = true
+
+#Structure Generation Settings
+[structure]
+	#Spawn structures
+	structureSpawn = true
+
