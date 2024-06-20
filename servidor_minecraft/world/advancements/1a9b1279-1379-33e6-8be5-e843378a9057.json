@@ -1,37 +1,19 @@
 {
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_the_slanted_recipe": "2024-06-20 08:39:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-06-20 08:15:36 +0000"
     },
     "done": true
   },
-  "betteranimalsplus:bad_fox": {
-    "criteria": {
-      "no_bam": "2024-06-20 08:15:44 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2024-06-20 08:15:36 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_recipe": "2024-06-20 08:15:35 +0000"
-    },
-    "done": true
-  },
   "lootr:root": {
     "criteria": {
       "always_true": "2024-06-20 08:15:36 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_recipe": "2024-06-20 08:15:35 +0000"
     },
     "done": true
   },
@@ -53,12 +35,6 @@
     },
     "done": true
   },
-  "apotheosis:give_book": {
-    "criteria": {
-      "tick": "2024-06-20 08:15:36 +0000"
-    },
-    "done": true
-  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2024-06-20 08:15:36 +0000"
@@ -71,12 +47,6 @@
     },
     "done": true
   },
-  "byg:biomepedia_gift": {
-    "criteria": {
-      "tick": "2024-06-20 08:15:36 +0000"
-    },
-    "done": true
-  },
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2024-06-20 08:15:36 +0000"
@@ -84,6 +54,80 @@
     "done": true
   },
   "byg:root": {
+    "criteria": {
+      "tick": "2024-06-20 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-06-20 09:00:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-06-20 08:27:48 +0000",
+      "minecraft:forest": "2024-06-20 08:15:35 +0000",
+      "minecraft:savanna": "2024-06-20 09:01:11 +0000"
+    },
+    "done": false
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-06-20 09:00:20 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2024-06-20 08:42:28 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:bad_fox": {
+    "criteria": {
+      "no_bam": "2024-06-20 08:15:44 +0000"
+    },
+    "done": false
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-06-20 08:59:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-06-20 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-06-20 09:00:20 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-06-20 08:15:35 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-06-20 08:15:35 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2024-06-20 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
     "criteria": {
       "tick": "2024-06-20 08:15:36 +0000"
     },
@@ -106,13 +150,6 @@
       "has_the_recipe": "2024-06-20 08:15:35 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2024-06-20 08:27:48 +0000",
-      "minecraft:forest": "2024-06-20 08:15:35 +0000"
-    },
-    "done": false
   },
   "repurposed_structures:root": {
     "criteria": {
