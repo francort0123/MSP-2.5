@@ -5,21 +5,9 @@
     },
     "done": true
   },
-  "betteranimalsplus:bad_fox": {
+  "lootr:root": {
     "criteria": {
-      "no_bam": "2024-06-20 06:28:17 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2024-06-20 06:28:09 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_recipe": "2024-06-20 06:28:09 +0000"
+      "always_true": "2024-06-20 06:28:09 +0000"
     },
     "done": true
   },
@@ -29,15 +17,9 @@
     },
     "done": true
   },
-  "lootr:root": {
+  "ms:root": {
     "criteria": {
-      "always_true": "2024-06-20 06:28:09 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_recipe": "2024-06-20 06:28:09 +0000"
+      "in_modded_overworld": "2024-06-20 06:28:09 +0000"
     },
     "done": true
   },
@@ -46,12 +28,6 @@
       "minecraft:zombie": "2024-06-20 06:53:27 +0000"
     },
     "done": false
-  },
-  "ms:root": {
-    "criteria": {
-      "in_modded_overworld": "2024-06-20 06:28:09 +0000"
-    },
-    "done": true
   },
   "mysticalworld:root": {
     "criteria": {
@@ -62,12 +38,6 @@
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2024-06-20 06:28:09 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:give_book": {
-    "criteria": {
-      "tick": "2024-06-20 06:28:09 +0000"
     },
     "done": true
   },
@@ -83,12 +53,6 @@
     },
     "done": true
   },
-  "byg:biomepedia_gift": {
-    "criteria": {
-      "tick": "2024-06-20 06:28:09 +0000"
-    },
-    "done": true
-  },
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2024-06-20 06:28:09 +0000"
@@ -96,6 +60,87 @@
     "done": true
   },
   "byg:root": {
+    "criteria": {
+      "tick": "2024-06-20 06:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2024-06-20 07:50:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-06-20 07:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-06-20 07:38:50 +0000",
+      "minecraft:river": "2024-06-20 07:39:50 +0000",
+      "minecraft:forest": "2024-06-20 06:28:09 +0000",
+      "minecraft:plains": "2024-06-20 07:47:44 +0000"
+    },
+    "done": false
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-06-20 07:50:28 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:bad_fox": {
+    "criteria": {
+      "no_bam": "2024-06-20 06:28:17 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-06-20 06:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-06-20 07:50:28 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-06-20 06:28:09 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-06-20 06:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-06-20 07:45:49 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2024-06-20 06:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-06-20 07:43:53 +0000"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
     "criteria": {
       "tick": "2024-06-20 06:28:09 +0000"
     },
@@ -118,12 +163,6 @@
       "has_the_recipe": "2024-06-20 06:28:09 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2024-06-20 06:28:09 +0000"
-    },
-    "done": false
   },
   "repurposed_structures:root": {
     "criteria": {
