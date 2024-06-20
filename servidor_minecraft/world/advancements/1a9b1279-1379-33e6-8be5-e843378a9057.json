@@ -1,0 +1,124 @@
+{
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-06-20 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:bad_fox": {
+    "criteria": {
+      "no_bam": "2024-06-20 08:15:44 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-06-20 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-06-20 08:15:35 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-06-20 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-06-20 08:15:35 +0000"
+    },
+    "done": true
+  },
+  "ms:root": {
+    "criteria": {
+      "in_modded_overworld": "2024-06-20 08:15:35 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:root": {
+    "criteria": {
+      "auto": "2024-06-20 08:15:35 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-06-20 08:15:35 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2024-06-20 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2024-06-20 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-06-20 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2024-06-20 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2024-06-20 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2024-06-20 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2024-06-20 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-06-20 08:28:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_the_recipe": "2024-06-20 08:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-06-20 08:27:48 +0000",
+      "minecraft:forest": "2024-06-20 08:15:35 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-06-20 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
